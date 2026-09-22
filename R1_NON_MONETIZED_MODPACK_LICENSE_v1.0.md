@@ -5,6 +5,8 @@
 
 This is a custom copyright license.
 
+This license applies only to addons and releases that explicitly identify themselves as being licensed under the **R1 Non-Monetized Modpack License**.
+
 By distributing, modifying, or including material covered by this license in another project, you agree to the following terms.
 
 ## 1. Permission
